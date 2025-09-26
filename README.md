@@ -1,29 +1,43 @@
-# Harmony Heights
 
-Bem-vindo ao site oficial da banda Harmony Heights!
+# 🎶 Harmony Heights
 
-Este projeto apresenta:
-- Informações sobre a banda e seus membros
-- Fotos dos integrantes
-- Player de áudio para ouvir as músicas
-- Player de vídeo para assistir performances
-- Datas de turnê e links para compra de ingressos
-- Links para redes sociais
-- Formulário de contato
+Bem-vindo ao site oficial da banda Harmony Heights!<br>
+<img src="https://edube.org/uploads/media/default/0001/04/band-photo.jpg" alt="Harmony Heights Band Photo" width="400">
 
-## Estrutura dos arquivos
+---
+
+## 👥 Membros da Banda
+<div align="center">
+<img src="https://edube.org/uploads/media/default/0001/04/member1-amy.jpg" alt="Amy Duncan" width="180">
+<img src="https://edube.org/uploads/media/default/0001/04/member2-john.jpg" alt="John Smith" width="180">
+<img src="https://edube.org/uploads/media/default/0001/04/member3-trevor.jpg" alt="Trevor G." width="180">
+</div>
+
+---
+
+## 🔊 Ouça nossas músicas
+Player de áudio disponível na página!
+
+## 🎥 Assista nossas performances
+Player de vídeo disponível na página!
+
+## 📅 Próximos shows
+- 12 de março de 2029, Orlando, FL
+- 14 de março de 2029, Salt Lake City, UT
+
+## 🌐 Redes sociais
+Faceblock | Instagrump | Twotter
+
+## 📬 Contato
+Use o formulário na página para entrar em contato com a banda.
+
+## 🗂️ Estrutura dos arquivos
 - `index.html`: Página principal do site
 - `style.css`: Estilos visuais do site
 
-## Como visualizar
-Abra o arquivo `index.html` em seu navegador para acessar o site.
-
-## Tecnologias utilizadas
+## 💻 Tecnologias utilizadas
 - HTML5
 - CSS3
-
-## Contato
-Use o formulário na página para entrar em contato com a banda.
 
 ---
 
