@@ -29,12 +29,13 @@ Player de vídeo disponível na página!
 Faceblock | Instagrump | Twotter
 
 ## 📬 Contato
+
 Use o formulário na página para entrar em contato com a banda.
 
 Você também pode nos encontrar nas redes sociais:
-- [Faceblock](https://www.example.com/faceblock/hh)
-- [Instagrump](https://www.example.com/instagrump/hh)
-- [Twotter](https://www.example.com/twotter/hh)
+- 🟦 [Faceblock](https://www.example.com/faceblock/hh)
+- 📸 [Instagrump](https://www.example.com/instagrump/hh)
+- 🐦 [Twotter](https://www.example.com/twotter/hh)
 
 ## 🗂️ Estrutura dos arquivos
 - `index.html`: Página principal do site
