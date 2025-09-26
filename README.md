@@ -44,6 +44,13 @@ Você também pode nos encontrar nas redes sociais:
 ## 💻 Tecnologias utilizadas
 - HTML5
 - CSS3
+ 
+## 🔤 Fonte utilizada
+O site utiliza a fonte [Montserrat](https://fonts.google.com/specimen/Montserrat) para um visual moderno e estilizado.
+
+Exemplo:
+
+<span style="font-family: 'Montserrat', Arial, sans-serif; font-size: 1.3em; color: #5a4633;">Harmony Heights com Montserrat</span>
 
 ---
 
