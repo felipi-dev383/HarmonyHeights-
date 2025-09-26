@@ -18,8 +18,26 @@ Bem-vindo ao site oficial da banda Harmony Heights!<br>
 ## 🔊 Ouça nossas músicas
 Player de áudio disponível na página!
 
+Exemplo de player de áudio:
+
+```html
+<audio controls>
+	<source src="https://edube.org/uploads/media/default/0001/04/track1.mp3" type="audio/mpeg">
+	Seu navegador não suporta o elemento de áudio.
+</audio>
+```
+
 ## 🎥 Assista nossas performances
 Player de vídeo disponível na página!
+
+Exemplo de player de vídeo:
+
+```html
+<video controls>
+	<source src="https://edube.org/uploads/media/default/0001/04/performance1.mp4" type="video/mp4">
+	Seu navegador não suporta o elemento de vídeo.
+</video>
+```
 
 ## 📅 Próximos shows
 - 12 de março de 2029, Orlando, FL
